@@ -30,5 +30,3 @@ For macOS only (for now)
 	mm.write { (path) in
 	    //
 	}
-
-![.mov in Swift](test.mov ".mov in Swift")
